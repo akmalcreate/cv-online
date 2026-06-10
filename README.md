@@ -124,9 +124,9 @@ ul{
 
     <div class="section contact">
         <h2>Kontak</h2>
-        <p>Email: emailkamu@gmail.com</p>
-        <p>GitHub: <a href="#">github.com/usernamekamu</a></p>
-        <p>WhatsApp: 08xxxxxxxxxx</p>
+        <p>Email: akmalalmagribi6@gmail.com</p>
+        <p>GitHub: <a href="#">github.com/akmalcreate</a></p>
+        <p>WhatsApp: 088214263826</p>
     </div>
 
     <div class="footer">

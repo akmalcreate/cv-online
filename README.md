@@ -126,7 +126,7 @@ ul{
         <h2>Kontak</h2>
         <p>Email: akmalalmagribi6@gmail.com</p>
         <p>GitHub: <a href="#">github.com/akmalcreate</a></p>
-        <p>WhatsApp: 88214263826</p>
+        <p>WhatsApp: 088214263826</p>
     </div>
 
     <div class="footer">

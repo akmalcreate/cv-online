@@ -81,7 +81,7 @@ ul{
 <div class="container">
 
     <div class="header">
-        <img src="https://via.placeholder.com/150" alt="Foto Profil">
+        <img src="akmal.jpg">
         <h1>Akmal</h1>
         <p>Lulusan TKJ | Web Developer Pemula</p>
     </div>
